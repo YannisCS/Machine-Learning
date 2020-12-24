@@ -5,8 +5,9 @@ AI overlaps with ML, it is also an area of computer science concerned with devel
 
 Statistics overlaps with the corner of ML interested in learning patterns in data.    
 
-## ML model
-
+## Model
+A model is a represnetation of something, could be [first principle equations](https://www.researchgate.net/publication/341980871_The_First_Principles_for_Artificial_Intelligence), simulations and rule systems, statistical model.
+![model]()
 
 # this repository
 this repository is for storing ML projects.
