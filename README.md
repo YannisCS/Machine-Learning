@@ -6,4 +6,11 @@ AI overlaps with ML, it is also an area of computer science concerned with devel
 Statistics overlaps with the corner of ML interested in learning patterns in data.  
 
 # this repository
-this repository is storing ML projects.
+this repository is for storing ML projects.
+
+## Fraud Detection
+
+
+## Iris
+
+## Titanic
