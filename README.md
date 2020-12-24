@@ -3,13 +3,18 @@ ML is a field of computer science concerned with programs that learn, it is a su
 
 AI overlaps with ML, it is also an area of computer science concerned with developing programs that are intelligent, or can do intelligent things, which invovles learning, e.g.machine learning.  
 
-Statistics overlaps with the corner of ML interested in learning patterns in data.  
+Statistics overlaps with the corner of ML interested in learning patterns in data.    
+
+## ML model
+
 
 # this repository
 this repository is for storing ML projects.
 
 ## Fraud Detection
-Binary classify
+Fraud is a wrongful or criminal deception intended to result in financial or personal gain, e.g.credit card transaction fraud, healthcare claims fraud and abuse, telecommunication fraud, and etc. Fraud detection is a kind of anomaly detection that finds unusual events, to indentify each record whether is a fraud.  
+
+This project is a supervised binary classify problem. 
 
 ## Iris
 classify
