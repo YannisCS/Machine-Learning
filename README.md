@@ -9,8 +9,10 @@ Statistics overlaps with the corner of ML interested in learning patterns in dat
 this repository is for storing ML projects.
 
 ## Fraud Detection
-
+Binary classify
 
 ## Iris
+classify
 
 ## Titanic
+Binary classify
