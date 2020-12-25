@@ -7,7 +7,7 @@ Statistics overlaps with the corner of ML interested in learning patterns in dat
 
 ## Model
 A model is a represnetation of something, could be [first principle equations](https://www.researchgate.net/publication/341980871_The_First_Principles_for_Artificial_Intelligence), simulations and rule systems, statistical model.
-![model](D:/tensorflow/model.JPG)
+![model](https://xmueducn-my.sharepoint.com/:i:/g/personal/cst1709323_xmu_edu_my/EV9HplSWDyxDjPaVqPTn9C0B3wOHJEWX0BxnL6zR1MIy2w?e=9Sexdv)
 
 # this repository
 this repository is for storing ML projects.
