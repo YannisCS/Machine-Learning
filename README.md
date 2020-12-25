@@ -14,6 +14,7 @@ A model is a represnetation of something, helps us better understanding the worl
 # this repository
 this repository is for storing ML projects.
 
+
 ## Fraud Detection
 Fraud is a wrongful or criminal deception intended to result in financial or personal gain, e.g.credit card transaction fraud, healthcare claims fraud and abuse, telecommunication fraud, and etc. Fraud detection is a kind of anomaly detection that finds unusual events, to indentify each record whether is a fraud.  
 
