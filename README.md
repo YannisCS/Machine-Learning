@@ -9,7 +9,7 @@ Statistics overlaps with the corner of ML interested in learning patterns in dat
 A model is a represnetation of something, helps us better understanding the world, it always focuses on the main factors and ignores many details for particular purpose. It could be [first principle equations](https://www.researchgate.net/publication/341980871_The_First_Principles_for_Artificial_Intelligence), simulations and rule systems, statistical model.
 ![model](https://raw.githubusercontent.com/YannisCS/Machine-Learning/main/pics/model.JPG)
 
-**"All models are wrong."---- George Box, statistician, 1978** 
+**"All models are wrong. Some are useful."---- George Box, statistician, 1978** 
 
 # this repository
 this repository is for storing ML projects.
